@@ -1,7 +1,7 @@
 {
 "banChats": true,
 "autoread": true,
-"autocomposing": true,
+"autocomposing": false,
 "autorecording": false,
 "OwnerName": "RAFFASTORE",
 "OwnerNumber": "6285721108765",
